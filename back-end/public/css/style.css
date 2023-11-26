@@ -1,0 +1,16 @@
+*{
+    font-family: 'Roboto';
+}
+
+.msg{
+    background-color: #a6dbb2;
+    color: #000000;
+    border: 1px solid #006317;
+    width: 98%;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 10px;
+    font-size: 16pt;
+    border-radius: 3px;
+    margin: auto;
+}
